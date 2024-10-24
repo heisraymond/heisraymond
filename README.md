@@ -22,7 +22,7 @@ I have rich experience in developing (Web) Backends using Django a python web fr
 
 ### My Tech Stack
 + Languages
-  - Python | Flutter/Dart | Javascript
+  - Python | Flutter/Dart | Javascript | Docker
   - Html | Css |
 + Frameworks & Tools
   - Web Frameworks
