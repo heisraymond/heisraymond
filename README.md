@@ -17,6 +17,23 @@ Hi, I'm **Raymond Mao**, A Tech Enthusiast with a passion for writing scripts th
 ### Self-taught Engineer form school of sleepless nights
 Despite having a background in computer science, I’ve dedicated countless hours to learning from online tutorials, as well as reading books, blogs, and research papers. Today, I’m a proficient BackEnd Engineer, continuously building on my knowledge and skills.
 
+### What I'm good at ?
+I have rich experience in developing (Web) Backends using Django a python web framework, I also have strong DevOps skills, including proficiency with Docker and version control systems like Git and GitHub. Additionally, I have solid experience with front-end technologies such as HTML and CSS, allowing me to build well-rounded web solutions.
 
-
-
+### My Tech Stack
++ Languages
+  - Python | Flutter/Dart | Javascript
+  - Html | Css |
++ Frameworks & Tools
+  - Web Frameworks
+     * Django | REST framework
+  - Databases & Storage
+     * Sqlite | Mysql | Postgresql
+  - API testing
+     * Postman
+  - Version Control
+     * Git | GitHub
+  - Code Editor
+     * VScode | JetBrains
+       
+![heiraymond's GitHub stats](https://github-readme-stats.vercel.app/api?username=heisraymond&show_icons=true&theme=gruvbox)
