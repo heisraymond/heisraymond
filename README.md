@@ -1,16 +1,17 @@
-## Hi there 👋
+![](https://komarev.com/ghpvc/?username=heisraymond&color=yellow)
 
-<!--
-**heisraymond/heisraymond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there !
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on: BackEnd Development and API testing
+- 🌱 I’m currently learning: DevOps and MachineLearning
+- 👯 I’m looking to collaborate on: API development using Django
+- 🤔 I’m looking for help with: collaboration on projects related to Django and WebAutomation
+- 💬 Ask me about BackEnd development and web automation
+- 📫 How to reach me: heisraymond.dev@gmail.com
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
--->
+
+### Who am I ?
+
+
+
