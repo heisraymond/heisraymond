@@ -36,5 +36,5 @@ I have rich experience in developing (Web) Backends using Django a python web fr
   - Code Editor
      * VScode | JetBrains
        
-![heiraymond's GitHub stats](https://github-readme-stats.vercel.app/api?username=heisraymond&show_icons=true&theme=gruvbox)
+![heiraymond's GitHub stats](https://github-readme-stats-heisraymond.vercel.app/api?username=heisraymond&show_icons=true&theme=gruvbox)
 
