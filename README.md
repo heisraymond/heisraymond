@@ -1,7 +1,5 @@
 <h1 align="center">Hi! 👋</h1>
 
-<hr>
-
 <p align="center">I'm Raymond.</p>
 
 <p align="center">For inquiries and collaborations reach out @ <a href="mailto:heisraymond.dev@gmail.com">heisraymond.dev@gmail.com</a></p>
